@@ -11,6 +11,12 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Language: en\n"
 
+msgid "LOADING"
+msgstr "Loading"
+
+msgid "SEARCHING"
+msgstr "Searching"
+
 msgid "NOLOC_FOUND"
 msgstr "Sorry, no locations match your search query."
 
@@ -34,3 +40,42 @@ msgstr "<strong>TIP:</strong> you can also drag data files directly onto the map
 
 msgid "ADD_INFO_PROXY"
 msgstr "<strong>TIP:</strong> you can also add <i>proxy/<i> before the URL in case of CORS problem."
+
+msgid "FEATURE_INFO_TITLE"
+msgstr "Feature Information"
+
+msgid "FEATURE_NONE"
+msgstr "No features found."
+
+msgid "FEATURE_ZOOMTO"
+msgstr "Change the map view to show the full extent of this data item."
+
+msgid "NOW_VIEWING_NAME"
+msgstr "Now Viewing"
+
+msgid "NOW_VIEWING_NODATA"
+msgstr "Add data using the Data Catalogue tab."
+
+msgid "NOW_VIEWING_MOVE_ITEM"
+msgstr "Dragging a Now Viewing item."
+
+msgid "DATA_CATALOG_NAME"
+msgstr "Data Catalogue"
+
+msgid "DATA_CATALOG_NODATA"
+msgstr "This group does not contain any items."
+
+msgid "SEARCH_TAB_NAME"
+msgstr "Search"
+
+msgid "SEARCH_TAB_INPUT_NODATA"
+msgstr "Search address, landmark, or data set"
+
+msgid "SHARE_POPUP_TITLE"
+msgstr "Share"
+
+msgid "ERR_SHORTEN_TITLE"
+msgstr "Unable to shorten URL"
+
+msgid "ERR_SHORTEN_MSG"
+msgstr "An error occurred while attempting to shorten the URL. Please check your internet connection and try again."

@@ -24,6 +24,12 @@ msgstr "Supprimer"
 msgid "Remove All"
 msgstr "Tout Supprimer"
 
+msgid "LOADING"
+msgstr "Chargement"
+
+msgid "SEARCHING"
+msgstr "Recherche en cours"
+
 msgid "NOLOC_FOUND"
 msgstr "Désolé, aucun lieu n\\'a été trouvé."
 
@@ -47,3 +53,43 @@ msgstr "<strong>INFO:</strong> vous pouvez aussi glisser-déposer vos fichiers d
 
 msgid "ADD_INFO_PROXY"
 msgstr "<strong>AIDE:</strong> rajoutez <i>proxy/<i> devant l\\'URL en cas de problème d\\'accès CORS."
+
+msgid "FEATURE_INFO_TITLE"
+msgstr "Propriétés de la donnée"
+
+msgid "FEATURE_NONE"
+msgstr "Aucune propriétés disponible."
+
+msgid "FEATURE_ZOOMTO"
+msgstr "Déplace la vue de la carte afin d'englober l'ensemble des éléments de cette source de données."
+
+msgid "NOW_VIEWING_NAME"
+msgstr "Affichage"
+
+msgid "NOW_VIEWING_NODATA"
+msgstr "Ajoutez des données depuis le Catalogue."
+
+msgid "NOW_VIEWING_MOVE_ITEM"
+msgstr "Déplacez l\\'élément visualisé."
+
+msgid "DATA_CATALOG_NAME"
+msgstr "Catalogue"
+
+msgid "DATA_CATALOG_NODATA"
+msgstr "Ce groupe ne contient aucun éléments"
+
+msgid "SEARCH_TAB_NAME"
+msgstr "Recherche"
+
+msgid "SEARCH_TAB_INPUT_NODATA"
+msgstr "Rechercher une adresse, secteur ou un ensemble de données"
+
+msgid "SHARE_POPUP_TITLE"
+msgstr "Partager"
+
+msgid "ERR_SHORTEN_TITLE"
+msgstr "Impossible de traiter l\\'URL"
+
+msgid "ERR_SHORTEN_MSG"
+msgstr "Une erreur est survenue lors de l\\'utilisation du service pour compresser l\\'URL. Ce service n\\'est pas disponible ou bien la connexion internet n\\'est pas active."
+
