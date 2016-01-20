@@ -1,9 +1,0 @@
-{
-    "catalog": [
-	{
-	    "url": "http://datacarto.geobourgogne.fr/WMS/wms.php?",
-	    "type": "wms-getCapabilities",
-	    "name": "Géo Bourgogne"
-	}
-    ]
-}

@@ -1,9 +1,0 @@
-{
-    "catalog": [
-	{
-	    "url": "https://download.data.grandlyon.com/wms/grandlyon",
-	    "name": "OpenData Grand Lyon",
-	    "type": "wms-getCapabilities"
-	}
-    ]
-}

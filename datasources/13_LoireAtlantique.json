@@ -1,9 +1,0 @@
-{
-    "catalog": [
-	{
-	    "url": "http://services.vuduciel.loire-atlantique.fr/geoserver/ows",
-	    "name": "GeoServer Loire Atlantique",
-	    "type": "wms-getCapabilities"
-	}
-    ]
-}

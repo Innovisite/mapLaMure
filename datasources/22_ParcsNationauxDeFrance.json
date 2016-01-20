@@ -1,9 +1,0 @@
-{
-    "catalog": [
-	{
-	    "url": "http://extranet.parcnational.fr/pnx/wms?",
-	    "name": "Parc Nationaux de France",
-	    "type": "wms-getCapabilities"
-	}
-    ]
-}

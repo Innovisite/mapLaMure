@@ -1,7 +1,10 @@
 {
     "proxyDomains" : [
+	"www.data.gouv.fr",
+	"carto.georhonealpes.fr"
     ],
     "initializationUrls" : [
+	"nm"
     ],
     "parameters": {
         "bingMapsKey": "AmVxlziFcoHT5hS-E1et4XZIG7vCfxxeVHH-SXlIqWLRPn649RLdlJWxjfIRuE6_",

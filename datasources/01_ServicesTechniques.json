@@ -1,0 +1,19 @@
+{
+    "catalog": [
+	{
+	    "type": "group",
+	    "name": "Services Techniques",
+	    "isPromoted": true,
+	    "isOpen": true,
+	    "items": [
+                {
+		    "type": "geojson",
+		    "name": "EDF",
+		    "url": "data/edf.json",
+		    "isEnabled": true
+                }
+	    ]
+	}
+    ]
+}
+

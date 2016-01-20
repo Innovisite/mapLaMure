@@ -1,9 +1,0 @@
-{
-    "catalog": [
-	{
-	    "url": "http://gesteau.oieau.fr/service",
-	    "name": "GEST'EAU",
-	    "type": "wms-getCapabilities"
-	}
-    ]
-}

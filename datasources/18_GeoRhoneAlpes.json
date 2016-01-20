@@ -1,9 +1,0 @@
-{
-    "catalog": [
-	{
-	    "url": "http://carto.georhonealpes.fr/cgi-bin/mapserv",
-	    "name": "Géo Rhone-Alpes",
-	    "type": "wms-getCapabilities"
-	}
-    ]
-}

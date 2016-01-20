@@ -1,0 +1,2295 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Place Auguste Perret",
+                "Adresse": "bureau st  place auguste perret",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19312300976633",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "1 7PJ 2012",
+                "Lieu Dit": "bureau service technique",
+                "citycode": "38269",
+                "postcode": "38350",
+                "city": "La Mure",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.71020169133192,
+                "label": "Place Auguste Perret 38350 La Mure",
+                "id": "38269_0020_aa2b0e",
+                "type": "street"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.784664,
+                    44.906232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rue Magdeleine",
+                "Adresse": "cafes  8 rue magdeleine",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19312879847814",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "1 9W5 2651",
+                "Lieu Dit": "ex cafes",
+                "citycode": "38269",
+                "postcode": "38350",
+                "id": "38269_0420_5d928a",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.71415324675325,
+                "label": "Rue Magdeleine 38350 La Mure",
+                "city": "La Mure",
+                "type": "street"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.785279,
+                    44.906278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Avenue des Plantations",
+                "Adresse": "club de tir  av des plantation",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19391461577531",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "1 9W5 2653",
+                "Lieu Dit": "club de tir",
+                "citycode": "38269",
+                "postcode": "38350",
+                "id": "38269_0510_057df9",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.62916236786469,
+                "label": "Avenue des Plantations 38350 La Mure",
+                "city": "La Mure",
+                "type": "street"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.788473,
+                    44.898817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "22 Avenue des Plantations",
+                "Adresse": "commun aparart  22 av des plantation",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19391027424101",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "1 COG 560",
+                "Lieu Dit": "commun appart bastion",
+                "citycode": "38269",
+                "postcode": "38350",
+                "housenumber": "22",
+                "city": "La Mure",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.52845123966942,
+                "label": "22 Avenue des Plantations 38350 La Mure",
+                "id": "ADRNIVX_0000000286774756",
+                "type": "housenumber",
+                "street": "Avenue des Plantations"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.787092,
+                    44.898313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "43 Rue du Breuil",
+                "Adresse": "syndicat initiative  43 rue du breuil",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19301736605960",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "1 DD2 4314",
+                "Lieu Dit": "office de tourisme",
+                "citycode": "38269",
+                "postcode": "38350",
+                "housenumber": "43",
+                "city": "La Mure",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.55415157699443,
+                "label": "43 Rue du Breuil 38350 La Mure",
+                "id": "ADRNIVX_0000000286772650",
+                "type": "housenumber",
+                "street": "Rue du Breuil"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.786408,
+                    44.906968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Avenue du 22 Ao\u00fbt 1944",
+                "Adresse": "capitol  av 22 aout 1944",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19309840774088",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "1 EOC 839",
+                "Lieu Dit": "capitol",
+                "citycode": "38269",
+                "postcode": "38350",
+                "id": "38269_0690_ff8649",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.57394214876033,
+                "label": "Avenue du 22 Ao\u00fbt 1944 38350 La Mure",
+                "city": "La Mure",
+                "type": "street"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.783951,
+                    44.916674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "56 Boulevard Docteur Ricard",
+                "Adresse": "maison des association  56 bl docteur ricard",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19391895732460",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "1 F3WYWO",
+                "Lieu Dit": "mab",
+                "citycode": "38269",
+                "street": "Boulevard Docteur Ricard",
+                "housenumber": "56",
+                "city": "La Mure",
+                "type": "housenumber",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "postcode": "38350",
+                "label": "56 Boulevard Docteur Ricard 38350 La Mure",
+                "score": 0.68777748917749,
+                "id": "ADRNIVX_0000000286774458"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.787695,
+                    44.900218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "14 Rue du Bon Repos",
+                "Adresse": "mediatheque 14 rue bon repos",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19319681523592",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "1 915HEV",
+                "Lieu Dit": "mediatheque",
+                "citycode": "38269",
+                "street": "Rue du Bon Repos",
+                "housenumber": "14",
+                "city": "La Mure",
+                "type": "housenumber",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.61315537190083,
+                "label": "14 Rue du Bon Repos 38350 La Mure",
+                "postcode": "38350",
+                "id": "ADRNIVX_0000000310325256"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.783676,
+                    44.906818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Place des Capucins",
+                "Adresse": "appartement communal pl des capucins",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19329377697415",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "1 FDP7SE",
+                "Lieu Dit": "appart capucins",
+                "citycode": "38269",
+                "postcode": "38350",
+                "city": "La Mure",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.47418542024014,
+                "label": "Place des Capucins 38350 La Mure",
+                "id": "38269_0110_dc28e5",
+                "type": "street"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.785667,
+                    44.904133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "40 Grande Rue",
+                "Adresse": "maison 40 grand rue",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19394790124058",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "1 ISTCKT",
+                "Lieu Dit": "maison 40 grand rue",
+                "citycode": "38269",
+                "street": "Grande Rue",
+                "housenumber": "40",
+                "city": "La Mure",
+                "type": "housenumber",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "postcode": "38350",
+                "label": "40 Grande Rue 38350 La Mure",
+                "score": 0.65564759358289,
+                "id": "ADRNIVX_0000000286773762"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.784817,
+                    44.905157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "36 Boulevard Fr\u00e9jus Michon",
+                "Adresse": "site antea 36 bl frejus michon",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "30001931483096",
+                "Tarif": "tj",
+                "R\u00e9f\u00e9rence Contrat": "1 HJBXS9",
+                "Lieu Dit": "site antea",
+                "citycode": "38269",
+                "postcode": "38350",
+                "housenumber": "36",
+                "city": "La Mure",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.59387079303675,
+                "label": "36 Boulevard Fr\u00e9jus Michon 38350 La Mure",
+                "id": "ADRNIVX_0000000286771815",
+                "type": "housenumber",
+                "street": "Boulevard Fr\u00e9jus Michon"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.783124,
+                    44.910147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1 Grande Rue",
+                "Adresse": "salle d exposition 1 grand rue ( fin 05\/2014)",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19341968080389",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "1 11Q2 4874",
+                "Lieu Dit": "ex esquisse",
+                "citycode": "38269",
+                "street": "Grande Rue",
+                "housenumber": "1",
+                "city": "La Mure",
+                "type": "housenumber",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "postcode": "38350",
+                "label": "1 Grande Rue 38350 La Mure",
+                "score": 0.5500668997669,
+                "id": "ADRNIVX_0000000286772959"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.785433,
+                    44.905944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Place Yves Turc",
+                "Adresse": "eclairage public poste yves turc",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19342691733591",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "1 7PT 4195",
+                "Lieu Dit": "ep",
+                "citycode": "38269",
+                "id": "38269_XXXX_44b56a",
+                "city": "La Mure",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.69467272727273,
+                "label": "Place Yves Turc 38350 La Mure",
+                "postcode": "38350",
+                "type": "street"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.785801,
+                    44.906282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rue Henri Giroud",
+                "Adresse": "eclairage public rue henri giroud poste centre",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19343270604723",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "1 7PT 4196",
+                "Lieu Dit": "ep",
+                "citycode": "38269",
+                "id": "38269_0340_77eb03",
+                "city": "La Mure",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.64004199134199,
+                "label": "Rue Henri Giroud 38350 La Mure",
+                "postcode": "38350",
+                "type": "street"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.785716,
+                    44.905258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Place Auguste Perret",
+                "Adresse": "mairie   place auguste perret",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19312156258873",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "1 9W5 2650",
+                "Lieu Dit": "mairie",
+                "citycode": "38269",
+                "postcode": "38350",
+                "city": "La Mure",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.76252727272727,
+                "label": "Place Auguste Perret 38350 La Mure",
+                "id": "38269_0020_aa2b0e",
+                "type": "street"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.784664,
+                    44.906232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rue Magdeleine",
+                "Adresse": "local communal rue magdeleine",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19312735130020",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "1 9Y1 1603",
+                "Lieu Dit": "",
+                "citycode": "38269",
+                "postcode": "38350",
+                "id": "38269_0420_5d928a",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.69467272727273,
+                "label": "Rue Magdeleine 38350 La Mure",
+                "city": "La Mure",
+                "type": "street"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.785279,
+                    44.906278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rue du Ch\u00e2teau",
+                "Adresse": "espace vert  rue du ch\u00e2teau",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19312445694488",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "1 COG 558",
+                "Lieu Dit": "grange musee",
+                "citycode": "38269",
+                "city": "La Mure",
+                "type": "street",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.78161818181818,
+                "label": "Rue du Ch\u00e2teau 38350 La Mure",
+                "postcode": "38350",
+                "id": "38269_0140_f710d4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.784051,
+                    44.905091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "19342836451350",
+                "Adresse": "ecole  place perouzat",
+                "searchEngine": "nominatim",
+                "PDL": "19342836451350",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "1 DDK 1214",
+                "Lieu Dit": "ecole perouzat"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "5.78625199068095",
+                    "44.90642595"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rue Colonel Escallon",
+                "Adresse": "musee mateysin  27rue colonel escallon",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19342402297982",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "1 PTM 4787",
+                "Lieu Dit": "musee",
+                "citycode": "38269",
+                "id": "38269_0160_1a847f",
+                "city": "La Mure",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.69650909090909,
+                "label": "Rue Colonel Escallon 38350 La Mure",
+                "postcode": "38350",
+                "type": "street"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.784427,
+                    44.904263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "3 Avenue des Plantations",
+                "Adresse": "appartement 3 gauche 22av des plantations",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19378581694728",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "1 1QGF 3821",
+                "Lieu Dit": "appart 3eG bastion",
+                "citycode": "38269",
+                "postcode": "38350",
+                "housenumber": "3",
+                "city": "La Mure",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.53329592476489,
+                "label": "3 Avenue des Plantations 38350 La Mure",
+                "id": "ADRNIVX_0000000286774213",
+                "type": "housenumber",
+                "street": "Avenue des Plantations"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.786383,
+                    44.902575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chemin du Calvaire",
+                "Adresse": "reservoir chemin du calvaire",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19324746736419",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "1 2XT9 705",
+                "Lieu Dit": "reservoire 3 crois",
+                "citycode": "38269",
+                "id": "38269_0095_36c99d",
+                "city": "La Mure",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.69874323725055,
+                "label": "Chemin du Calvaire 38350 La Mure",
+                "postcode": "38350",
+                "type": "street"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.785163,
+                    44.906909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "21 Rue Florin Bernard",
+                "Adresse": "halte garderie 21 florian bernard",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19390014379351",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "1 3EZW 716",
+                "Lieu Dit": "rose et les choux",
+                "citycode": "38269",
+                "postcode": "38350",
+                "id": "ADRNIVX_0000000286774146",
+                "type": "housenumber",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.74707777777778,
+                "label": "21 Rue Florin Bernard 38350 La Mure",
+                "city": "La Mure",
+                "housenumber": "21",
+                "street": "Rue Florin Bernard"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.790412,
+                    44.903322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "R\u00e9sidence les Trois Saules",
+                "Adresse": "centre aere  bl les trois saules",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19388856657110",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "1 8IL 1426",
+                "Lieu Dit": "centre aere",
+                "citycode": "38269",
+                "postcode": "38350",
+                "city": "La Mure",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.67177937915743,
+                "label": "R\u00e9sidence les Trois Saules 38350 La Mure",
+                "id": "38269_XXXX_f98b89",
+                "type": "locality"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.795634,
+                    44.901766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Route de la Mure",
+                "Adresse": "garage communal route de pruniere",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19389580246118",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "1 8IL 1427",
+                "Lieu Dit": "garage service technique",
+                "citycode": "38273",
+                "postcode": "38350",
+                "city": "Nantes-en-Ratier",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.63692727272727,
+                "label": "Route de la Mure 38350 Nantes-en-Ratier",
+                "id": "38273_0160_56729c",
+                "type": "street"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.82411,
+                    44.934167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rue du Jeu de Boules",
+                "Adresse": "buvette  jeu de boule rue des capucin",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19343994193776",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "1 9W5 2654",
+                "Lieu Dit": "buvette boulle",
+                "citycode": "38269",
+                "id": "38269_0388_1e2a56",
+                "city": "La Mure",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.63089834710744,
+                "label": "Rue du Jeu de Boules 38350 La Mure",
+                "postcode": "38350",
+                "type": "street"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.792112,
+                    44.90477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Place C\u00e9sar Joubert",
+                "Adresse": "borne forain place cesar joubert",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19344283629308",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "1 9W5 2655",
+                "Lieu Dit": "borne forain",
+                "citycode": "38269",
+                "postcode": "38350",
+                "city": "La Mure",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.75844801864802,
+                "label": "Place C\u00e9sar Joubert 38350 La Mure",
+                "id": "38269_0130_5a65b3",
+                "type": "street"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.786922,
+                    44.905241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2 Avenue des Plantations",
+                "Adresse": "ecole de musique  2 av des plantations",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19392040448773",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "1 ANB 215",
+                "Lieu Dit": "ecole de music",
+                "citycode": "38269",
+                "postcode": "38350",
+                "housenumber": "2",
+                "city": "La Mure",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.67369477756286,
+                "label": "2 Avenue des Plantations 38350 La Mure",
+                "id": "ADRNIVX_0000000286774211",
+                "type": "housenumber",
+                "street": "Avenue des Plantations"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.785991,
+                    44.901991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Grande Rue",
+                "Adresse": "garage  la roche",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19390159117355",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "1 BXJ 2938",
+                "Lieu Dit": "",
+                "citycode": "38269",
+                "id": "38269_0330_1194c7",
+                "city": "La Mure",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "postcode": "38350",
+                "label": "Grande Rue 38350 La Mure",
+                "score": 0.46848181818182,
+                "type": "street"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.785004,
+                    44.905403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "26 Avenue des Plantations",
+                "Adresse": "logement de fonction  26 av des plantations",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19391316859775",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "1 BXJ 2939",
+                "Lieu Dit": "apparte complexe",
+                "citycode": "38269",
+                "postcode": "38350",
+                "housenumber": "26",
+                "city": "La Mure",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.56464388714734,
+                "label": "26 Avenue des Plantations 38350 La Mure",
+                "id": "ADRNIVX_0000000340035800",
+                "type": "housenumber",
+                "street": "Avenue des Plantations"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.789168,
+                    44.89713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "22 Avenue des Plantations",
+                "Adresse": "groupe scolaire  22 av des plantations",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19390737988533",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "1 COG 559",
+                "Lieu Dit": "ecole bastion",
+                "citycode": "38269",
+                "postcode": "38350",
+                "housenumber": "22",
+                "city": "La Mure",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.67369477756286,
+                "label": "22 Avenue des Plantations 38350 La Mure",
+                "id": "ADRNIVX_0000000286774756",
+                "type": "housenumber",
+                "street": "Avenue des Plantations"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.787092,
+                    44.898313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "35 Grande Rue",
+                "Adresse": "coffret forain  35 grand rue",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19342981169199",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "1 COG 561",
+                "Lieu Dit": "coffret marche",
+                "citycode": "38269",
+                "street": "Grande Rue",
+                "housenumber": "35",
+                "city": "La Mure",
+                "type": "housenumber",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "postcode": "38350",
+                "label": "35 Grande Rue 38350 La Mure",
+                "score": 0.65564759358289,
+                "id": "ADRNIVX_0000000286773758"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.785062,
+                    44.905103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "24 Avenue des Plantations",
+                "Adresse": "vestiaires tennis club  24 av des plantations",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19391172141943",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "1 PTK 2111",
+                "Lieu Dit": "tennis",
+                "citycode": "38269",
+                "postcode": "38350",
+                "housenumber": "24",
+                "city": "La Mure",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.69787272727273,
+                "label": "24 Avenue des Plantations 38350 La Mure",
+                "id": "ADRNIVX_0000000286774877",
+                "type": "housenumber",
+                "street": "Avenue des Plantations"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.788669,
+                    44.897692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Boulevard du Stade",
+                "Adresse": "stade zewulko",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "30001930705599",
+                "Tarif": "tj",
+                "R\u00e9f\u00e9rence Contrat": "1 ID9 2470",
+                "Lieu Dit": "stade zewulko",
+                "citycode": "38269",
+                "id": "38269_0635_6bd095",
+                "city": "La Mure",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.46898181818182,
+                "label": "Boulevard du Stade 38350 La Mure",
+                "postcode": "38350",
+                "type": "street"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.787579,
+                    44.895901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Beauregard",
+                "Adresse": "st beauregard",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "30001931696811",
+                "Tarif": "tj",
+                "R\u00e9f\u00e9rence Contrat": "1 4T8814",
+                "Lieu Dit": "magasin st",
+                "citycode": "38269",
+                "postcode": "38350",
+                "city": "La Mure",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.80787762237762,
+                "label": "Beauregard 38350 La Mure",
+                "id": "38269_B004_d8204a",
+                "type": "locality"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.778148,
+                    44.900734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Les Sagnettes",
+                "Adresse": "complexe sport sagnette  ?",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "30001930130743",
+                "Tarif": "tj",
+                "R\u00e9f\u00e9rence Contrat": "1 IDH 2446",
+                "Lieu Dit": "",
+                "citycode": "38269",
+                "postcode": "38350",
+                "city": "La Mure",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.60464545454545,
+                "label": "Les Sagnettes 38350 La Mure",
+                "id": "38269_B035_45f935",
+                "type": "locality"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.784099,
+                    44.896796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Grande Rue",
+                "Adresse": "1grand rue",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19362228636701",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "1 JZ9D24",
+                "Lieu Dit": "ex esquisse",
+                "citycode": "38269",
+                "id": "38269_0330_1194c7",
+                "city": "La Mure",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "postcode": "38350",
+                "label": "Grande Rue 38350 La Mure",
+                "score": 0.77757272727273,
+                "type": "street"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.785004,
+                    44.905403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Avenue du 22 Ao\u00fbt 1944",
+                "Adresse": "panneau lumineux av du 22 aout 1944",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19386685871957",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "1 HD9JGS",
+                "Lieu Dit": "panneau lumineux",
+                "citycode": "38269",
+                "postcode": "38350",
+                "id": "38269_0690_ff8649",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.53067066895369,
+                "label": "Avenue du 22 Ao\u00fbt 1944 38350 La Mure",
+                "city": "La Mure",
+                "type": "street"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.783951,
+                    44.916674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Grande Rue",
+                "Adresse": "stade maurice lira",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "30001931533164",
+                "Tarif": "TJ",
+                "R\u00e9f\u00e9rence Contrat": "1 1PLLSQ",
+                "Lieu Dit": "stade lira",
+                "citycode": "38269",
+                "id": "38269_0330_1194c7",
+                "city": "La Mure",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "postcode": "38350",
+                "label": "Grande Rue 38350 La Mure",
+                "score": 0.50344685314685,
+                "type": "street"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.785004,
+                    44.905403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rue du Th\u00e9\u00e2tre",
+                "Adresse": "theatre municipal",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "30001930814066",
+                "Tarif": "tj",
+                "R\u00e9f\u00e9rence Contrat": "1 ID7 3431",
+                "Lieu Dit": "theatre",
+                "citycode": "38269",
+                "id": "38269_0647_4b4fb7",
+                "city": "La Mure",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.50110049140049,
+                "label": "Rue du Th\u00e9\u00e2tre 38350 La Mure",
+                "postcode": "38350",
+                "type": "street"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.786028,
+                    44.901927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Les Marais",
+                "Adresse": "ep pre neuf  zi les marais",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19350216990340",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "1 1FZ4 2029",
+                "Lieu Dit": "ep",
+                "citycode": "38269",
+                "id": "38269_B023_78a1e6",
+                "city": "La Mure",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.60983896103896,
+                "label": "Les Marais 38350 La Mure",
+                "postcode": "38350",
+                "type": "locality"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.784713,
+                    44.931781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LOTISSEMENT CLAPIER CAILLAT",
+                "Adresse": "ep lotissement clapet caillat",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19376266208612",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "1 332Q 17",
+                "Lieu Dit": "ep",
+                "citycode": "38269",
+                "id": "38269_A012_3fa3f2",
+                "city": "La Mure",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.77047209302326,
+                "label": "LOTISSEMENT CLAPIER CAILLAT 38350 La Mure",
+                "postcode": "38350",
+                "type": "locality"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.785355,
+                    44.895152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rue de l'\u00c9glise",
+                "Adresse": "ep 27 rue de l,eglise",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19303183783907",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "1 3PY 2270",
+                "Lieu Dit": "ep",
+                "citycode": "38269",
+                "id": "38269_0280_084db2",
+                "city": "La Mure",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.76246310160428,
+                "label": "Rue de l'\u00c9glise 38350 La Mure",
+                "postcode": "38350",
+                "type": "street"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.787328,
+                    44.906228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rue des Hers",
+                "Adresse": "ep rue des theneveaux",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19388277785989",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "1 3R6 87",
+                "Lieu Dit": "ep",
+                "citycode": "38269",
+                "postcode": "38350",
+                "id": "38269_0350_bf6b43",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.51714688995215,
+                "label": "Rue des Hers 38350 La Mure",
+                "city": "La Mure",
+                "type": "street"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.78824,
+                    44.904294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Boulevard Auguste Vial",
+                "Adresse": "ep poste ch\u00e2teau  bd auguste vial",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19350072260024",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "1 4D7U 92",
+                "Lieu Dit": "ep",
+                "citycode": "38269",
+                "postcode": "38350",
+                "city": "La Mure",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.50304545454545,
+                "label": "Boulevard Auguste Vial 38350 La Mure",
+                "id": "38269_0030_5e1179",
+                "type": "street"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.783052,
+                    44.902426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Route de la Mure",
+                "Adresse": "ep route de pierre chatel",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19309551338473",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "17272008",
+                "Lieu Dit": "ep",
+                "citycode": "38273",
+                "postcode": "38350",
+                "city": "Nantes-en-Ratier",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.54601818181818,
+                "label": "Route de la Mure 38350 Nantes-en-Ratier",
+                "id": "38273_0160_56729c",
+                "type": "street"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.82411,
+                    44.934167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lotissement les Castors",
+                "Adresse": "ep lotissement les castors",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19309696056218",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "17272009",
+                "Lieu Dit": "ep",
+                "citycode": "38269",
+                "city": "La Mure",
+                "type": "street",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.85176993006993,
+                "label": "Lotissement les Castors 38350 La Mure",
+                "postcode": "38350",
+                "id": "38269_XXXX_62c66d"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.785568,
+                    44.915249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rue du Pont de la Maladi\u00e8re",
+                "Adresse": "ep pont de la maladiere",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19311287952048",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "17272010",
+                "Lieu Dit": "ep",
+                "citycode": "38269",
+                "postcode": "38350",
+                "city": "La Mure",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.74759437229437,
+                "label": "Rue du Pont de la Maladi\u00e8re 38350 La Mure",
+                "id": "38269_XXXX_6952cb",
+                "type": "street"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.783514,
+                    44.913568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rue du Jeu de Quilles",
+                "Adresse": "ep rue du jeux de quille ( poste mairie)",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19311577387631",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "17272011",
+                "Lieu Dit": "ep",
+                "citycode": "38269",
+                "postcode": "38350",
+                "id": "38269_0390_01fd00",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.71780909090909,
+                "label": "Rue du Jeu de Quilles 38350 La Mure",
+                "city": "La Mure",
+                "type": "street"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.7837,
+                    44.90548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "3 Boulevard des Trois Saules",
+                "Adresse": "ep bd des trois saules",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19388711939375",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "17272012",
+                "Lieu Dit": "ep",
+                "citycode": "38269",
+                "street": "Boulevard des Trois Saules",
+                "housenumber": "3",
+                "city": "La Mure",
+                "type": "housenumber",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.67401157024793,
+                "label": "3 Boulevard des Trois Saules 38350 La Mure",
+                "postcode": "38350",
+                "id": "ADRNIVX_0000000286774891"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.790531,
+                    44.897742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "R\u00e9sidence les Trois Saules",
+                "Adresse": "ep  les trois saules",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19389001374998",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "17272013",
+                "Lieu Dit": "ep",
+                "citycode": "38269",
+                "postcode": "38350",
+                "city": "La Mure",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.67177937915743,
+                "label": "R\u00e9sidence les Trois Saules 38350 La Mure",
+                "id": "38269_XXXX_f98b89",
+                "type": "locality"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.795634,
+                    44.901766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lotissement de l'Olan",
+                "Adresse": "ep lotissement de l, olan",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19389290810589",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "17272014",
+                "Lieu Dit": "ep",
+                "citycode": "38269",
+                "city": "La Mure",
+                "type": "locality",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.8475171990172,
+                "label": "Lotissement de l'Olan 38350 La Mure",
+                "postcode": "38350",
+                "id": "38269_A042_32fe21"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.79446,
+                    44.900817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "All\u00e9e des Sagnettes",
+                "Adresse": "ep poste des sagnettes",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19390593270701",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "17272015",
+                "Lieu Dit": "ep",
+                "citycode": "38269",
+                "postcode": "38350",
+                "city": "La Mure",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.71795252525253,
+                "label": "All\u00e9e des Sagnettes 38350 La Mure",
+                "id": "38269_0601_cf4aaa",
+                "type": "street"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.786461,
+                    44.898639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Boulevard du Stade",
+                "Adresse": "ep bd du stade (poste caillat)",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19391895730994",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "17272015",
+                "Lieu Dit": "ep",
+                "citycode": "38269",
+                "id": "38269_0635_6bd095",
+                "city": "La Mure",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.61183896103896,
+                "label": "Boulevard du Stade 38350 La Mure",
+                "postcode": "38350",
+                "type": "street"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.787579,
+                    44.895901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2 Rue Jean Jaur\u00e8s",
+                "Adresse": "ep 2 rue jean jaures (poste gare)",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19310853798655",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "17pt491",
+                "Lieu Dit": "ep",
+                "citycode": "38269",
+                "postcode": "38350",
+                "id": "ADRNIVX_0000000286771784",
+                "type": "housenumber",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.84324628099174,
+                "label": "2 Rue Jean Jaur\u00e8s 38350 La Mure",
+                "city": "La Mure",
+                "housenumber": "2",
+                "street": "Rue Jean Jaur\u00e8s"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.78395,
+                    44.909674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rue Abb\u00e9 Dussert",
+                "Adresse": "ep rue abbe dussert (le genevrey)",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19302026041500",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "17pt4192",
+                "Lieu Dit": "ep",
+                "citycode": "38269",
+                "postcode": "38350",
+                "city": "La Mure",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.83191818181818,
+                "label": "Rue Abb\u00e9 Dussert 38350 La Mure",
+                "id": "38269_0003_d24de4",
+                "type": "street"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.790343,
+                    44.908313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rue des Bastions",
+                "Adresse": "ep rue des bastions",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19387988350390",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "17pt4193",
+                "Lieu Dit": "ep",
+                "citycode": "38269",
+                "id": "38269_0050_611a70",
+                "city": "La Mure",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.836,
+                "label": "Rue des Bastions 38350 La Mure",
+                "postcode": "38350",
+                "type": "street"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.787244,
+                    44.90367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rue Charles Albert",
+                "Adresse": "ep rue charle albert (res les accacias)",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19302894348301",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "18iv3012",
+                "Lieu Dit": "ep",
+                "citycode": "38269",
+                "city": "La Mure",
+                "type": "street",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.76713766233766,
+                "label": "Rue Charles Albert 38350 La Mure",
+                "postcode": "38350",
+                "id": "38269_0138_283a23"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.794608,
+                    44.907801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rue des Hers",
+                "Adresse": "ep rue hers",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19387120043504",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "18iv3013",
+                "Lieu Dit": "ep",
+                "citycode": "38269",
+                "postcode": "38350",
+                "id": "38269_0350_bf6b43",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.69657272727273,
+                "label": "Rue des Hers 38350 La Mure",
+                "city": "La Mure",
+                "type": "street"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.78824,
+                    44.904294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chemin des Araign\u00e9es",
+                "Adresse": "ep chemin des arraignees pres des moines",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19387843632545",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "18iv3014",
+                "Lieu Dit": "ep",
+                "citycode": "38269",
+                "postcode": "38350",
+                "id": "38269_0015_d1dc18",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.61106363636364,
+                "label": "Chemin des Araign\u00e9es 38350 La Mure",
+                "city": "La Mure",
+                "type": "street"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.793109,
+                    44.90277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Avenue du G\u00e9n\u00e9ral de Gaulle",
+                "Adresse": "ep av general de gaule (ex gendarmerie)",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19390448552945",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "18iv3015",
+                "Lieu Dit": "ep",
+                "citycode": "38269",
+                "postcode": "38350",
+                "city": "La Mure",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.65633223140496,
+                "label": "Avenue du G\u00e9n\u00e9ral de Gaulle 38350 La Mure",
+                "id": "38269_XXXX_cd5dde",
+                "type": "street"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.784656,
+                    44.900471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mont\u00e9e de la Citadelle",
+                "Adresse": "ep montee de la citadelle (poste j eymard)",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19301881323727",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "19wh15",
+                "Lieu Dit": "ep",
+                "citycode": "38269",
+                "id": "38269_XXXX_e66732",
+                "city": "La Mure",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.84779330143541,
+                "label": "Mont\u00e9e de la Citadelle 38350 La Mure",
+                "postcode": "38350",
+                "type": "street"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.788049,
+                    44.907703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "All\u00e9e des Victoires",
+                "Adresse": "ep alle des victoires (poste hlm petrus richaud)",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19387698914765",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "19wh16",
+                "Lieu Dit": "ep",
+                "citycode": "38269",
+                "id": "38269_0683_18b9cc",
+                "city": "La Mure",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.89038181818182,
+                "label": "All\u00e9e des Victoires 38350 La Mure",
+                "postcode": "38350",
+                "type": "street"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.787646,
+                    44.902541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lotissement le Mitral",
+                "Adresse": "ep lotissement mitral",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19390303835115",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "1anl1203",
+                "Lieu Dit": "ep",
+                "citycode": "38269",
+                "id": "38269_A038_d971af",
+                "city": "La Mure",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.81665353535354,
+                "label": "Lotissement le Mitral 38350 La Mure",
+                "postcode": "38350",
+                "type": "locality"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.782789,
+                    44.899582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Boulevard du Stade",
+                "Adresse": "ep bd du stade (poste du stade)",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19391606295399",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "1anl1204",
+                "Lieu Dit": "ep",
+                "citycode": "38269",
+                "id": "38269_0635_6bd095",
+                "city": "La Mure",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.61183896103896,
+                "label": "Boulevard du Stade 38350 La Mure",
+                "postcode": "38350",
+                "type": "street"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.787579,
+                    44.895901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Route de la Mure",
+                "Adresse": "ep zi de la mouche",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19310274927457",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "1b934648",
+                "Lieu Dit": "ep",
+                "citycode": "38264",
+                "city": "La Morte",
+                "type": "street",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.60645151515152,
+                "label": "Route de la Mure 38350 La Morte",
+                "postcode": "38350",
+                "id": "38264_XXXX_56729c"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.865516,
+                    45.021227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rue Colonel Escallon",
+                "Adresse": "ep clos chalon (poste clos chalon)",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19302170759330",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "1bxv4271",
+                "Lieu Dit": "ep",
+                "citycode": "38269",
+                "id": "38269_0160_1a847f",
+                "city": "La Mure",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.46923636363636,
+                "label": "Rue Colonel Escallon 38350 La Mure",
+                "postcode": "38350",
+                "type": "street"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.784427,
+                    44.904263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rue des Jardins",
+                "Adresse": "ep lycee jardin de ville",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19389435528351",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "1bxv4272",
+                "Lieu Dit": "ep",
+                "citycode": "38269",
+                "postcode": "38350",
+                "id": "38269_0360_f46735",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.51252727272727,
+                "label": "Rue des Jardins 38350 La Mure",
+                "city": "La Mure",
+                "type": "street"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.788246,
+                    44.906342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Route de la Mure, LA BLACHE",
+                "Adresse": "ep  poste la roche",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19389869681796",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "1bxv4273",
+                "Lieu Dit": "ep",
+                "citycode": "38264",
+                "postcode": "38350",
+                "city": "La Morte",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.5162886977887,
+                "label": "Route de la Mure, LA BLACHE 38350 La Morte",
+                "id": "38264_B003_688f14",
+                "type": "locality"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.862929,
+                    45.02374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rue du Bon Repos",
+                "Adresse": "ep rue du bon repos",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19311432669897",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "1coq1990",
+                "Lieu Dit": "ep",
+                "citycode": "38269",
+                "id": "38269_XXXX_8aa8c3",
+                "city": "La Mure",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.83784545454545,
+                "label": "Rue du Bon Repos 38350 La Mure",
+                "postcode": "38350",
+                "type": "street"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.78366,
+                    44.907503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pr\u00e9 Sabot",
+                "Adresse": "ep hlm pre sabot",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19388422503787",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "1coq1993",
+                "Lieu Dit": "ep",
+                "citycode": "38269",
+                "postcode": "38350",
+                "id": "38269_B030_51394e",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.78061258741259,
+                "label": "Pr\u00e9 Sabot 38350 La Mure",
+                "city": "La Mure",
+                "type": "locality"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.794929,
+                    44.905223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Groupe Cimon",
+                "Adresse": "ep cimon 4 poste cimon",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19310709080825",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "1dfw3614",
+                "Lieu Dit": "ep",
+                "citycode": "38269",
+                "postcode": "38350",
+                "city": "La Mure",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.50077321867322,
+                "label": "Groupe Cimon 38350 La Mure",
+                "id": "38269_A020_557841",
+                "type": "locality"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.78524,
+                    44.910636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lotissement du Trieves",
+                "Adresse": "ep lotissement du trive",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19389146092745",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "1dfw3616",
+                "Lieu Dit": "ep",
+                "citycode": "38269",
+                "city": "La Mure",
+                "type": "locality",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.77400712530713,
+                "label": "Lotissement du Trieves 38350 La Mure",
+                "postcode": "38350",
+                "id": "38269_XXXX_b1fe9f"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.795792,
+                    44.901798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rue de Jonche",
+                "Adresse": "ep jonche lotissement de la jonche",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19308104109250",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "1c51f3f",
+                "Lieu Dit": "ep",
+                "citycode": "38269",
+                "city": "La Mure",
+                "id": "38269_XXXX_519a7b",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.45740538033395,
+                "label": "Rue de Jonche 38350 La Mure",
+                "postcode": "38350",
+                "type": "street"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.784128,
+                    44.906279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "10 Rue Saint-Jacques",
+                "Adresse": "ex bibliotheque municipale 10 rue st jaques",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19312590412262",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "",
+                "Lieu Dit": "ex bibliotheque",
+                "citycode": "38269",
+                "postcode": "38350",
+                "housenumber": "10",
+                "type": "housenumber",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.40903079178886,
+                "label": "10 Rue Saint-Jacques 38350 La Mure",
+                "city": "La Mure",
+                "id": "ADRNIVX_0000000286773823",
+                "street": "Rue Saint-Jacques"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.784229,
+                    44.904986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1 Passage de la Confr\u00e9rie",
+                "Adresse": "camera video protection 1 passage de la conferie (pl bethoux)",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19318089616747",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "",
+                "Lieu Dit": "camera pl bethoux",
+                "citycode": "38269",
+                "street": "Passage de la Confr\u00e9rie",
+                "housenumber": "1",
+                "city": "La Mure",
+                "id": "ADRNIVX_0000000343150903",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.52885324675325,
+                "label": "1 Passage de la Confr\u00e9rie 38350 La Mure",
+                "postcode": "38350",
+                "type": "housenumber"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.787122,
+                    44.905941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lotissement les Castors",
+                "Adresse": "station de reprise les castors 516b 01",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19356005752437",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "12xtf3752",
+                "Lieu Dit": "station de reprise castors",
+                "citycode": "38269",
+                "city": "La Mure",
+                "type": "street",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.50847685950413,
+                "label": "Lotissement les Castors 38350 La Mure",
+                "postcode": "38350",
+                "id": "38269_XXXX_62c66d"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.785568,
+                    44.915249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chemin du Calvaire",
+                "Adresse": "relais radio chemin du calvaire",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19383646804741",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "1 19lh 592",
+                "Lieu Dit": "relais radio",
+                "citycode": "38269",
+                "id": "38269_0095_36c99d",
+                "city": "La Mure",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.77305257985258,
+                "label": "Chemin du Calvaire 38350 La Mure",
+                "postcode": "38350",
+                "type": "street"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.785163,
+                    44.906909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Route de la Mure, LA BLACHE",
+                "Adresse": "local communal la roche",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19389724963941",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "1 9w5 2652",
+                "Lieu Dit": "",
+                "citycode": "38264",
+                "postcode": "38350",
+                "city": "La Morte",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.41157359307359,
+                "label": "Route de la Mure, LA BLACHE 38350 La Morte",
+                "id": "38264_B003_688f14",
+                "type": "locality"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.862929,
+                    45.02374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rue des Capucins",
+                "Adresse": "local petanque mairie rue des capucins",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19333140281790",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "134d6812",
+                "Lieu Dit": "petanque",
+                "citycode": "38269",
+                "postcode": "38350",
+                "city": "La Mure",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.74037777777778,
+                "label": "Rue des Capucins 38350 La Mure",
+                "id": "38269_0120_facdcd",
+                "type": "street"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.78588,
+                    44.904404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "24 Place Perouzat",
+                "Adresse": "local communal 24 place perouzat",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19357742384972",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "182874j",
+                "Lieu Dit": "",
+                "citycode": "38269",
+                "street": "Place Perouzat",
+                "housenumber": "24",
+                "city": "La Mure",
+                "type": "housenumber",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.62004242424242,
+                "label": "24 Place Perouzat 38350 La Mure",
+                "postcode": "38350",
+                "id": "ADRNIVX_0000000286772855"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.786156,
+                    44.90608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "19343849475989",
+                "Adresse": "ecole rue des capucins",
+                "searchEngine": "nominatim",
+                "PDL": "19343849475989",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "1bxz1099",
+                "Lieu Dit": "ecole capucins"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "5.7855914",
+                    "44.9036425"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rue Magdeleine",
+                "Adresse": "bureau technique ancien cafes 8 rue magdelaine",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19312879847814",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "",
+                "Lieu Dit": "",
+                "citycode": "38269",
+                "postcode": "38350",
+                "id": "38269_0420_5d928a",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.38543278688525,
+                "label": "Rue Magdeleine 38350 La Mure",
+                "city": "La Mure",
+                "type": "street"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.785279,
+                    44.906278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Avenue des Plantations",
+                "Adresse": "club de tir  av des plantation",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19391461577531",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "",
+                "Lieu Dit": "club de tir",
+                "citycode": "38269",
+                "postcode": "38350",
+                "id": "38269_0510_057df9",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.62916236786469,
+                "label": "Avenue des Plantations 38350 La Mure",
+                "city": "La Mure",
+                "type": "street"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.788473,
+                    44.898817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pr\u00e9 Sabot",
+                "Adresse": "atelier st",
+                "searchEngine": "data.gouv.fr",
+                "PDL": "19343415322591",
+                "Tarif": "tb",
+                "R\u00e9f\u00e9rence Contrat": "1cq84284",
+                "Lieu Dit": "atelier st",
+                "citycode": "38269",
+                "postcode": "38350",
+                "id": "38269_B030_51394e",
+                "context": "38, Is\u00e8re, Rh\u00f4ne-Alpes",
+                "score": 0.46592727272727,
+                "label": "Pr\u00e9 Sabot 38350 La Mure",
+                "city": "La Mure",
+                "type": "locality"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.794929,
+                    44.905223
+                ]
+            }
+        }
+    ]
+}

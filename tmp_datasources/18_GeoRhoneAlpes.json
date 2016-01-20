@@ -1,0 +1,17 @@
+{
+    "catalog": [
+	{
+	    "name": "Géo Rhone-Alpes",
+	    "type": "group",
+	    "items": [
+		{
+		    "type": "wms",
+		    "url": "http://carto.georhonealpes.fr/cgi-bin/mapserv",
+		    "layers": "Batiagregede2014Isere",
+		    "dataUrlType": "direct",
+		    "name": "Bâti agrégé de 2014 - Isère"
+		}
+	    ]
+	}
+    ]
+}
