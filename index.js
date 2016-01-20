@@ -30,8 +30,7 @@ var configuration = {
     bingMapsKey: "AmVxlziFcoHT5hS-E1et4XZIG7vCfxxeVHH-SXlIqWLRPn649RLdlJWxjfIRuE6_",
     proxyBaseUrl: 'proxy/',
     conversionServiceBaseUrl: 'convert',
-    regionMappingDefinitionsUrl: 'data/regionMapping.json',
-    rapanuiKey: "b7b7add2f37500aef52ff8b8677da9ba"
+    regionMappingDefinitionsUrl: 'data/regionMapping.json'
 };
 
 // Check browser compatibility early on.
@@ -127,7 +126,7 @@ terria.start({
     // as well as the call to "updateApplicationOnHashChange" further down.
     applicationUrl: window.location,
     configUrl: 'config.json',
-    defaultTo2D: isCommonMobilePlatform(),
+    defaultTo2D: true,
     urlShortener: new InoUrlShortener({
         terria: terria
     })
